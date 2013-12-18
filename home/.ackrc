@@ -1,0 +1,14 @@
+--type-add
+js=.coffee
+
+--type-add
+css=.scss
+
+--type-add
+ruby=.haml,.feature
+
+--type-add
+html=.haml,.erb
+
+--type-set
+candies=.marshmallow
