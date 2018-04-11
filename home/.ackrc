@@ -1,5 +1,5 @@
 --type-add
-js=.coffee
+js=.coffee,.jsx,.js,.es6
 
 --type-add
 css=.scss
@@ -8,7 +8,10 @@ css=.scss
 ruby=.haml,.feature
 
 --type-add
-html=.haml,.erb
+html=.haml,.erb,.slim
 
 --type-set
 candies=.marshmallow
+
+--type-set
+env=.env
